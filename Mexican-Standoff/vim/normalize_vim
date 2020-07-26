@@ -1,0 +1,6 @@
+:5, 7m 2 <ENTER>
+j e a ' ' <ESC>
+17G e .
+3j l v $ <BS> d
+gg=G
+<F1>

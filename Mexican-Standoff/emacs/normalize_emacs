@@ -1,0 +1,10 @@
+M-x delete-trailing-whitespace <ENTER>
+M-g-g 3 <ENTER> M-f ' '
+M-g-g 17 <ENTER> M-f ' '
+M-% '        ' <ENTER> <TAB><TAB> <ENTER> y
+M-g-g 5 <ENTER> M-m C-<SPACE>
+M-g-g 8 <ENTER> M-m C-w
+M-g-g 3 <ENTER> M-m C-y
+C-x h
+M-C-\
+<ENTER> C-c C-h
